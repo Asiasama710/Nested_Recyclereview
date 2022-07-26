@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="size_content_item">14sp</dimen>
+    <dimen name="more_smallpadding">4dp</dimen>
+    <dimen name="smallpadding">8dp</dimen>
+    <dimen name="medumpadding">12dp</dimen>
+    <dimen name="largpadding">16dp</dimen>
+
+    <dimen name="more_smallmargin">4dp</dimen>
+    <dimen name="smallmargin">8dp</dimen>
+    <dimen name="medummagrin">14dp</dimen>
+    <dimen name="largmargin">16dp</dimen>
+    <dimen name="more_largmargin">24dp</dimen>
+
+    <dimen name="dim8">8dp</dimen>
+    <dimen name="dim4">4dp</dimen>
+
+    <dimen name="dim1">1dp</dimen>
+    <dimen name="dim5">5dp</dimen>
+    <dimen name="size_name">12sp</dimen>
+    <dimen name="size_name_card">18sp</dimen>
+
+
+</resources>

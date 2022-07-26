@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Myapp</string>
+    <string name="text_content_item">The Best Places to Grab a Bite in New Orleans</string>
+    <string name="name_of_item">Name of item</string>
+</resources>
